@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitorfauste
 - 👀 I’m interested in cars and programming.
-- 🌱 I’m currently learning C#/.NET 6.0
+- 🌱 I’m currently learning C#/.NET and ReactJS.
 - 📫 You can reach me by e-mail (vitorhugo8127@gmail.com), LinkedIn (https://www.linkedin.com/in/vitorfauste/) or Instagram (https://www.instagram.com/vitor.fauste)
 
 <!---
